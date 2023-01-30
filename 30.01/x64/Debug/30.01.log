@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\nadya\source\repos\30.01\Source.cpp(19,33): warning C4244: аргумент: преобразование "_Rep" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  30.01.vcxproj -> C:\Users\nadya\source\repos\30.01\x64\Debug\30.01.exe
